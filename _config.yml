@@ -1,0 +1,14 @@
+layout_spectrum: 0.1756272
+color:
+  saturation: 0.6272401
+  lightness: 0.4908393
+  brandStrength: 0.7311828
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#C9C9CC'
+    - '#5B5B5B'
+    - '#848484'
+  rhythmicContrast: 0
+typography_spectrum: 0.3888889
+name: LinaLindstrom
